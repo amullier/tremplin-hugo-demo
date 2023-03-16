@@ -1,0 +1,3 @@
+[submodule "themes/liksi-demo-theme"]
+	path = themes/liksi-demo-theme
+	url = https://github.com/amullier/liksi-demo-theme
